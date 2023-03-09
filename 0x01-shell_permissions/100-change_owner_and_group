@@ -1,2 +1,2 @@
 #!/bin/bash
-chown h-R betty:alxschool .
+chown -h vincent:staff _hello
